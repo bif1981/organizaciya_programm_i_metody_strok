@@ -8,11 +8,6 @@ print(my_string.lower())    # Выводим строку в нижнем рег
 
 print(my_string.replace(' ', '')) # Удаление всех пробелов
 
-print(my_string[0])
-print(my_string[-1])
+print(my_string[0])     # Вывожу первый символ строки my_string
 
-
-
-# Измените строку my_string, удалив все пробелы.
-# Выведите первый символ строки my_string.
-# Выведите последний символ строки my_string.
+print(my_string[-1])    # Вывожу последний символ строки my_string
